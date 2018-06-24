@@ -14,7 +14,7 @@ Mr. Burns has requested us to build a new keypad component for the nuclear plant
 3. On that `input`, add an event handler that listens for the `keyUp` event.
 4. When that event fires, use `console.log` to print out the text `'Entering password...'`.
 
-## Eyes on the ball
+## Eyes on the ball-
 ![Key & Peele](https://media.giphy.com/media/l0K4i4Cm18z1X1t16/giphy.gif)
 
 Let's say you're in the club with your buddy. The music's blaring, lights are flashing... It's so hard to get his attention! Your job is to create a component that registers whenever he focuses on you, _and_ when his eyes are drifting off.
