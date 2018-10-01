@@ -1,8 +1,8 @@
 // Code EyesOnMe Component Here
 import React from 'react';
 export default class EyesOnMe extends React.Component {
-  constructor() {
-
+  constructor(props) {
+super(props);
   }
   onFocues=()=>{
     console.log("Good!")
