@@ -9,7 +9,7 @@ In this lab you'll respond to events in React and write event handlers.
 > `Keypad.js`. To get started, write very basic components that you _know_ will
 > not pass all the tests, but at least be valid React.
 
-## Keypad
+## Keypad h
 
 ![Keypad](https://media.giphy.com/media/3o6MbdTboTFWOUsLkc/giphy.gif)
 
